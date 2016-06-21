@@ -17,9 +17,9 @@ English was an inflected language up to the Middle Ages, but the modern language
 very few inflexions. Some survive, like the genitive case ‘lady’s handbag’ where ‘lady’ requires ‘’s’
 to show singular possession, or like the third person in the simple present tense (I work ~ He/
 She/It works) where the ‘-s’ ending identifies the third person, or in the comparative and
-superlative forms of many adjectives (nice, nicer, nicest).
+superlative forms of many adjectives (nice, nicer, nicest).  
 There are only six words in the English language which have different subject and object
-forms (I/me, he/him, she/her, we/us, they/them and who/whom).
+forms (I/me, he/him, she/her, we/us, they/them and who/whom).  
 This lack of inflexions in English tempts some people to observe (quite wrongly) that the
 language has ‘hardly any grammar’. It would be more accurate to say that English no longer has
 a grammar like that of Latin or German, but it has certainly evolved a grammar of its own, as
