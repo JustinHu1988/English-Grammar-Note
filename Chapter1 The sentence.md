@@ -1,37 +1,17 @@
-#English Grammar
-##Chapter1: The sentence 2
-Sentence word order ..........................................................................................2
-The Simple Sentence .........................................................................................7
-The compound sentence ..................................................................................15
-The complex sentence: introduction.................................................................18
-The complex sentence: noun clauses ..............................................................19
-The complex sentence: relative pronouns and relative clauses.......................22
-The complex sentence: adverbial clauses........................................................31
-The complex sentence: participle constructions...............................................38
-Chapter2: NOUN 43
-One-word nouns...............................................................................................43
-Compound nouns .............................................................................................45
-Countable and uncountable nouns...................................................................49
-Number (singular and plural) ............................................................................55
-Chapter3 Articles 58
-General information about ‘a/an’ ‘the’ and the zero article ...............................58
-The indefinite article: a/an ................................................................................59
-The definite article: ‘the’....................................................................................64
-
-
-
 #Chapter1: The sentence
+
 ##Sentence word order
 ###1.1  Inflected and uninflected languages
 Many modern European languages are inflected. Inflected languages usually have the
 following characteristics:
-1. Nouns have endings which change depending on whether they are, for example, the
+
+1. **Nouns have endings** which change depending on whether they are, for example, the
 subject of a verb.
-2. There are complex agreements between articles, adjectives and nouns to emphasise
+2. **There are complex agreements** between articles, adjectives and nouns to emphasise
 the fact that a noun is, for example, subject or object, masculine or feminine, singular or
 plural. The more inflected a language is (for example, German or Greek), the more complex
 its system of endings (“inflexions”).
-3. Verbs “conjugate”, so that it is immediately obvious from the endings which
+3. **Verbs "conjugate"**, so that it is immediately obvious from the endings which
 ‘person’ (first, second, third) is referred to and whether the ‘person’ is singular or plural.
 English was an inflected language up to the Middle Ages, but the modern language retains
 very few inflexions. Some survive, like the genitive case ‘lady’s handbag’ where ‘lady’ requires ‘’s’
